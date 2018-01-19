@@ -1,3 +1,3 @@
 # GitCommands
 
-# added commands
+# added some more commands
